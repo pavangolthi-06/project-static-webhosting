@@ -1,7 +1,4 @@
-This project demonstrates the how to host a website usinng the amazon S3 by configuring the bucket policies,permissions and enabling the static webhosting
-The steps involved 
-uploading the code file of php and html file in bucket
-enabling the bucket versioning to avoid any accidental deletions and block public access for proiect security
-enabling the acls and object access
-enabling static webhosting and access the website through link given by s3
-website was delivered
+## 📌 Project Overview
+This project demonstrates how to deploy a highly available static website using Amazon S3 by configuring bucket policies, public access settings, and static website hosting features.
+
+The goal of this project is to understand real-world cloud deployment concepts such as object storage, versioning, access control, and web hosting using AWS S3.
